@@ -1,45 +1,84 @@
-# 🚀 TRAE Starter Template - Public
+# TRAE Starter 🛰️
 <!--
   Scaffolded by Andi UPN (https://github.com/andiupn)
   Official Website & Support: https://kuncimu.com
   Licensed under MIT License
 -->
 
-> 📦 Free Template by **Andi UPN** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)
+<div align="center">
+  <strong>English</strong> | <a href="README.id.md">Bahasa Indonesia</a>
+</div>
 
-Bilingual: [🇮🇩 Bahasa Indonesia](README.id.md) | [🇺🇸 English](README.md)
+<br />
 
-Lightweight starter template to begin projects using **TRAE IDE**, perfect for beginners! Free with optional donation.
+<div align="center">
+  <h3><strong>AI is smart. But in a messy environment, it gets lost.</strong></h3>
+  <p><strong>TRAE Starter is a clean, AI-first template that gives TRAE IDE perfect vision.</strong></p>
 
-## 📸 Web Sample Preview
-<!-- ![TRAE Starter Homepage](assets/screenshots/homepage.png) -->
-*(Feel free to save screenshots in `assets/screenshots/`)*
+  <p>Stop wasting tokens, suffering from AI hallucinations, and struggling with context boundaries. Vibe coding should feel like magic—and now it does.</p>
+</div>
 
-## ✨ Features
-- ✅ Basic AI Agent Rules in Bahasa Indonesia
-- ✅ Consistent output formatting guidelines
-- ✅ Long-term project memories (`.trae/memories/`)
-- ✅ Basic custom command configuration
-- ✅ MCP server templates (max 40 tools!)
-- ✅ Simple Web & Mobile dev rules
-- ✅ Interactive Web Sample demo
-
-## 🚀 Getting Started
-1. Clone this repository.
-2. Run the web sample:
-   ```bash
-   docker run -d -p 9002:80 --name trae-starter-web -v $(pwd)/public:/usr/share/nginx/html nginx:alpine
-   ```
-3. Open `http://localhost:9002` to view the demo.
-4. Adapt the rules to fit your project stack.
-5. Populate `.trae/memories/` with your project's long-term context.
-6. Start a new chat in TRAE IDE and begin coding!
-
-## 📖 Documentation
-See `.trae/README.md` for a detailed guide on configuring TRAE IDE.
-
-## 💖 Donations
-If you love this template, support its development through our donation channels listed in `DONATE.md`.
+> 📦 Free template by **andiupn** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)  
+> ☕ If useful, [buy me a coffee](https://ko-fi.com/andiupn) · 🚀 Need status-first monorepo features? Try the [PRO version](https://kuncimu.com)
 
 ---
-Made with ❤️ by Andi UPN and the TRAE Indonesia Community.
+
+## 💡 The Problem: Why Traditional Workspaces Fail AI
+AI Editors (like TRAE IDE) are phenomenally capable. But when dropped into standard, cluttered directories, they get lost. They read irrelevant logs, blow through your token budget, hallucinate, and place files in the wrong directories because there are no clear boundaries.
+
+---
+
+## ⚡ The Solution: Three Pillars of Premium AI Scaffolding
+
+### 1. 🛰️ Perfect Vision for TRAE IDE
+We designed every folder, config, and `.gitignore` rule to act as roadmaps for your AI. The workspace is extremely clean, allowing TRAE IDE to understand your entire project architecture in less than 3 seconds. Zero wasted tokens, maximum accuracy.
+
+### 2. 🤖 Pre-Configured Project Memory
+Equipped with `.trae/memories/` directory. Your AI now has a dedicated place to store project preferences, gotchas, and architectural decisions, preventing you from repeating instructions across chat sessions.
+
+### 3. 📦 Sandbox Web Sample
+A ready-to-run containerized Nginx web sandbox so you can instantly verify changes, test rules, and prototype layouts in a live local environment.
+
+---
+
+## 📊 LITE vs PRO: The Premium Upgrade
+
+| Feature | 🆓 LITE (Free) | 💎 PRO (Paid) |
+|---|:---:|:---:|
+| **Rules Configuration** | Basic rules | Comprehensive (Web/Mobile/Output) |
+| **Specialized Skills** | 1 (testing) | 2 (+ code-review, security) |
+| **Project Memories** | Basic Seed | Complete & Structured |
+| **Workflow Pipeline** | Standard | Quest + Expert Mode |
+| **Lisensi** | MIT License | Proprietary Commercial |
+
+👉 **[View Full Feature Comparison & Upgrade Guide](COMPARISON.md)**
+
+---
+
+## 📂 Workspace Blueprint
+```
+your-workspace/
+  .trae/               # Rules, commands, and long-term project memory
+  assets/              # Screenshots and social previews
+  public/              # HTML sandbox web files
+  AGENTS.md            # Context & identity guidelines for your AI assistant
+  LICENSE              # Project license (MIT License)
+```
+
+---
+
+## 🚀 Get Started in 3 Steps
+
+### 1. Clone this repository:
+```bash
+git clone https://github.com/andiupn/trae-starter.git
+```
+
+### 2. Run the Web Sample:
+```bash
+docker run -d -p 9002:80 --name trae-starter-web -v $(pwd)/public:/usr/share/nginx/html nginx:alpine
+```
+*(Open http://localhost:9002 to view the demo).*
+
+### 3. Start Coding:
+Open this folder in TRAE IDE, customize `.trae/memories/` with your project specs, and begin vibe coding!

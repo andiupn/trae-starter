@@ -1,35 +1,45 @@
 # 🚀 TRAE Starter Template - Public
+<!--
+  Scaffolded by Andi UPN (https://github.com/andiupn)
+  Official Website & Support: https://kuncimu.com
+  Licensed under MIT License
+-->
 
-Template dasar untuk memulai proyek dengan TRAE IDE, cocok untuk pemula! Gratis dengan donasi opsional.
+> 📦 Free Template by **Andi UPN** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)
 
-## 📸 Tampilan Web Sample
+Bilingual: [🇮🇩 Bahasa Indonesia](README.id.md) | [🇺🇸 English](README.md)
+
+Lightweight starter template to begin projects using **TRAE IDE**, perfect for beginners! Free with optional donation.
+
+## 📸 Web Sample Preview
 <!-- ![TRAE Starter Homepage](assets/screenshots/homepage.png) -->
-*(Silakan simpan screenshot di folder `assets/screenshots/`)*
+*(Feel free to save screenshots in `assets/screenshots/`)*
 
-## ✨ Fitur Lengkap
-- ✅ Rules AI Bahasa Indonesia dasar
-- ✅ Format output konsisten
-- ✅ Project Memories (konteks jangka panjang)
-- ✅ Contoh Skill (running-tests)
-- ✅ Template MCP (maks 40 tools!)
-- ✅ Web & Mobile Dev Rules sederhana
-- ✅ Web Sample untuk Demo
-- ✅ Template kosongan, siap dikembangkan
+## ✨ Features
+- ✅ Basic AI Agent Rules in Bahasa Indonesia
+- ✅ Consistent output formatting guidelines
+- ✅ Long-term project memories (`.trae/memories/`)
+- ✅ Basic custom command configuration
+- ✅ MCP server templates (max 40 tools!)
+- ✅ Simple Web & Mobile dev rules
+- ✅ Interactive Web Sample demo
 
-## 🚀 Cara Memulai
-1. Clone repo ini
-2. Jalankan web sample: `docker run -d -p 9002:80 --name trae-starter-web -v $(pwd)/public:/usr/share/nginx/html nginx:alpine`
-3. Buka http://localhost:9002 untuk melihat demo
-4. Atur sesuai kebutuhan proyekmu
-5. Edit `.trae/memories/` dengan konteks proyekmu
-6. Mulai chat baru di TRAE IDE dan coding!
+## 🚀 Getting Started
+1. Clone this repository.
+2. Run the web sample:
+   ```bash
+   docker run -d -p 9002:80 --name trae-starter-web -v $(pwd)/public:/usr/share/nginx/html nginx:alpine
+   ```
+3. Open `http://localhost:9002` to view the demo.
+4. Adapt the rules to fit your project stack.
+5. Populate `.trae/memories/` with your project's long-term context.
+6. Start a new chat in TRAE IDE and begin coding!
 
-## 📖 Dokumentasi
-Lihat `.trae/README.md` untuk panduan konfigurasi TRAE yang detail!
+## 📖 Documentation
+See `.trae/README.md` for a detailed guide on configuring TRAE IDE.
 
-## 💖 Donasi
-Jika kamu suka template ini, kamu bisa memberikan donasi untuk mendukung pengembangan!
+## 💖 Donations
+If you love this template, support its development through our donation channels listed in `DONATE.md`.
 
 ---
-
-Dibuat dengan ❤️ oleh komunitas TRAE Indonesia
+Made with ❤️ by Andi UPN and the TRAE Indonesia Community.

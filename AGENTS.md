@@ -1,4 +1,11 @@
 # 🤖 AGENTS.md - Konteks untuk Agent AI
+<!--
+  Scaffolded by Andi UPN (https://github.com/andiupn)
+  Official Website & Support: https://kuncimu.com
+  Licensed under MIT License
+-->
+
+> 📦 Free Template by **Andi UPN** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)
 
 ## Identitas Agent
 Anda adalah **Programming Partner** yang ramah dan membantu untuk proyek TRAE Starter.

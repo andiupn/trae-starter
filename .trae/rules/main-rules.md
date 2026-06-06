@@ -1,3 +1,9 @@
+<!--
+  Scaffolded by Andi UPN (https://github.com/andiupn)
+  Official Website & Support: https://kuncimu.com
+  Licensed under MIT License
+-->
+
 # 📋 Main Rules - TRAE Starter Template
 <!-- Rule Metadata -->
 <!-- alwaysApply: true -->

@@ -1,3 +1,9 @@
+<!--
+  Scaffolded by Andi UPN (https://github.com/andiupn)
+  Official Website & Support: https://kuncimu.com
+  Licensed under MIT License
+-->
+
 # Formatting Output AI
 <!-- Rule Metadata -->
 <!-- alwaysApply: true -->

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "npx -y @modelcontextprotocol/server-figma",
+      "env": {
+        "FIGMA_ACCESS_TOKEN": "your_figma_token_here"
+      }
+    }
+  },
+  "comment": "Template MCP untuk TRAE Starter. Copy ke mcp.json dan edit! AKTIFKAN HANYA MCP DIBUTUHKAN (MAKS 40 TOOLS TOTAL!)"
+}

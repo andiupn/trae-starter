@@ -19,7 +19,7 @@
 </div>
 
 > 📦 Free template by **andiupn** ([kuncimu.com](https://kuncimu.com)) · Licensed under [MIT License](LICENSE)  
-> ☕ If useful, [buy me a coffee](https://ko-fi.com/andiupn) · 🚀 Need status-first monorepo features? Try the [PRO version](https://kuncimu.com)
+> ☕ If useful, [buy me a coffee](https://ko-fi.com/andiupn) · 🚀 Need status-first monorepo features? Try the [PRO version](https://github.com/sponsors/andiupn?frequency=monthly)
 
 ---
 

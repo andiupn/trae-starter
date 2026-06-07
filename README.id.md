@@ -19,7 +19,7 @@
 </div>
 
 > 📦 Template gratis oleh **andiupn** ([kuncimu.com](https://kuncimu.com)) · Berlisensi di bawah [MIT License](LICENSE)  
-> ☕ Jika bermanfaat, dukung kami di [ko-fi.com/andiupn](https://ko-fi.com/andiupn) · 🚀 Butuh fitur monorepo profesional? Coba [versi PRO](https://kuncimu.com)
+> ☕ Jika bermanfaat, dukung kami di [ko-fi.com/andiupn](https://ko-fi.com/andiupn) · 🚀 Butuh fitur monorepo profesional? Coba [versi PRO](https://github.com/sponsors/andiupn?frequency=monthly)
 
 ---
 

@@ -25,12 +25,12 @@
 | **Aset Lokal Web Demo** | ✅ | ✅ |
 | **MCP Config Template** | ✅ (Maks 40) | ✅ (Teroptimasi) |
 | **Lisensi Proyek** | MIT | Komersial Proprietary |
-| **Dukungan Prioritas** | Komunitas | Prioritas (Email & kuncimu.com) |
+| **Dukungan Prioritas** | Komunitas | Prioritas (Email & GitHub Sponsors) |
 
 ---
 
 ## Jalur Upgrade
-1. Dapatkan lisensi resmi edisi PRO di **[kuncimu.com](https://kuncimu.com)**.
+1. Dapatkan lisensi resmi edisi PRO di **[GitHub Sponsors](https://github.com/sponsors/andiupn?frequency=monthly)**.
 2. Unduh berkas repositori `trae-pro`.
 3. Salin folder `.trae/` dan konfigurasinya ke dalam root proyek Anda.
 4. Mulai coding dengan produktivitas tinggi bersama TRAE Pro!

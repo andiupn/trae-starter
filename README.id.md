@@ -15,7 +15,7 @@
   <h3><strong>AI itu sangat pintar. Tapi di lingkungan yang berantakan, ia tersesat.</strong></h3>
   <p><strong>TRAE Starter adalah template bersih ramah-AI yang memberikan peranti TRAE IDE visi sempurna.</strong></p>
 
-  <p>Hentikan pemborosan token, masalah halusinasi AI, dan kesulitan batas konteks. Coding dengan bantuan AI harus terasa seperti sihir—dan sekarang hal itu nyata.</p>
+  <p>Hentikan pemborosan token, masalah halusinasi AI, dan kesulitan batas konteks. Coding dengan bantuan AI (AI-assisted coding) harus terasa seperti sihir—dan sekarang hal itu nyata.</p>
 </div>
 
 > 📦 Template gratis oleh **andiupn** ([kuncimu.com](https://kuncimu.com)) · Berlisensi di bawah [MIT License](LICENSE)  
@@ -64,7 +64,7 @@ git clone https://github.com/andiupn/trae-starter.git
 ```bash
 docker run -d -p 9002:80 --name trae-starter-web -v $(pwd)/public:/usr/share/nginx/html nginx:alpine
 ```
-*(Buka http://localhost:9002 di peramban Anda).*
+*(Buka http://localhost:9002 di browser Anda).*
 
 ### 3. Mulai Coding:
 Buka folder ini di TRAE IDE, sesuaikan berkas `.trae/memories/` dengan spesifikasi proyek Anda, dan mulailah coding dengan kecepatan tinggi!

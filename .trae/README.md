@@ -9,8 +9,7 @@ Direktori ini berisi konfigurasi TRAE IDE DASAR untuk pemula dan proyek baru!
 ├── rules/
 │   ├── main-rules.md
 │   ├── output-formatting.md
-│   ├── web-dev/            # Rules web dev sederhana
-│   └── mobile-dev/         # Rules mobile dev sederhana
+│   └── web-dev/            # Rules web dev sederhana
 └── memories/               # Project memories!
     └── README.md
 ```
@@ -21,6 +20,7 @@ Sudah termasuk:
 - Memories untuk konteks jangka panjang
 - Template MCP (maks 40 tools!)
 - Direktori skills di .agents/skills/
+- Struktur sengaja minimal agar mudah dipakai sebagai template awal
 
 ## Cara Menggunakan
 - Clone repo sebagai template
@@ -30,4 +30,3 @@ Sudah termasuk:
 ## Dokumentasi
 - https://docs.trae.ai/ide/rules
 - https://docs.trae.ai/ide/best-practice-for-how-to-write-a-good-skill
-
